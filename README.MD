@@ -1,6 +1,8 @@
 # Introduce of Text2Sound Project
 
-[image]: https://raw.githubusercontent.com/f1982/Text2Sound/master/images/how-to-use-it.gif "how to use text 2 sound gif"
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/f1982/Text2Sound/master/images/how-to-use-it.gif" alt="Text2Sound" title="Text2Sound">
+</p>
 
 ## Follow next steps to make text into sound file.
 
