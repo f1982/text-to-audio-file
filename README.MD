@@ -1,8 +1,8 @@
 # Introduce of Text2Sound Project
 
-## Follow next steps to make text into sound file.
+[image]: https://raw.githubusercontent.com/f1982/Text2Sound/master/images/how-to-use-it.gif "how to use text 2 sound gif"
 
-[image]: images/how-to-use-it.gif "how to use text 2 sound gif"
+## Follow next steps to make text into sound file.
 
 1. Change the text.txt file content into what text you want to make a sound file and split by enter.
 2. Go to project folder and run txt2sound.sh to create sound file.
