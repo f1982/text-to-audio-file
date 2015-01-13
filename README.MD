@@ -29,7 +29,7 @@ chmod 777 ./text2sound.sh
 如果提示权限错误，请运行下面的脚本;
 
 ```shell
-	chmod 777 ./text2sound.sh 
+chmod 777 ./text2sound.sh 
 ```
 
 3.你可以查看到生成的声音文件在files目录里;
